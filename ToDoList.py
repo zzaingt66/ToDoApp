@@ -1,4 +1,4 @@
-def toDoApp()
+def toDoApp():
 
     tareas = []
     def añadirTarea():
